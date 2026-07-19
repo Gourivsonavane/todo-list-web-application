@@ -28,14 +28,14 @@ A web-based To-Do List application that allows users to create, manage, and trac
 - Testing application functionality and resolving bugs during development
 
 ## 📸 Screenshots
-
+Untitled.png
 
 
 ## ⚙️ How to Run Locally
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/todo-list-web-application.git
+   git clone https://github.com/https://github.com/Gourivsonavane/todo-list-web-application.git
    ```
 2. Open the solution file (`.sln`) in Visual Studio
 3. Update the connection string in `appsettings.json` to point to your local SQL Server instance
